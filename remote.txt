@@ -1,1 +1,1 @@
-ssh [username]@ncg3rl0cbhrfshsh3.neiwangyun.net -p 33664
+ssh [username]@qdhg7q2r82s3shsh3.neiwangyun.net -p 17228
